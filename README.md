@@ -9,7 +9,8 @@ to withdraw money,deposit.
 ### UML DIAGRAMS:
 USECASE DIAGRAM:
 
-<img width="1091" height="893" alt="Screenshot 2025-09-02 033246" src="https://github.com/user-attachments/assets/86e36796-d914-468d-8825-13cc9904d95f" />
+<img width="823" height="814" alt="image" src="https://github.com/user-attachments/assets/804e466f-a4f5-478a-82cc-2edc7e63ce14" />
+
 
 CLASS DIAGRAM:
 
